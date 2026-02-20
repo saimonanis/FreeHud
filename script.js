@@ -62,3 +62,8 @@ function render(){
 }
 
 document.getElementById("search").addEventListener("input", render);
+
+
+window.addEventListener("orientationchange", function() {
+    console.log("Orientation changed");
+});
