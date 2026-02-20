@@ -1,0 +1,8 @@
+[
+  { "name": "Poki", "category": "Games", "url": "https://poki.com" },
+  { "name": "Krunker", "category": "Games", "url": "https://krunker.io" },
+  { "name": "Photopea", "category": "AI Tools", "url": "https://photopea.com" },
+  { "name": "Canva", "category": "AI Tools", "url": "https://canva.com" },
+  { "name": "Khan Academy", "category": "Learning", "url": "https://khanacademy.org" },
+  { "name": "freeCodeCamp", "category": "Learning", "url": "https://freecodecamp.org" }
+]
